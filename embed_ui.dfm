@@ -2,7 +2,7 @@ object EmbedUi: TEmbedUi
   Left = 0
   Top = 0
   BorderIcons = [biSystemMenu, biMinimize]
-  Caption = 'Embed TEF'
+  Caption = 'Embed POS'
   ClientHeight = 429
   ClientWidth = 620
   Color = clBtnFace
