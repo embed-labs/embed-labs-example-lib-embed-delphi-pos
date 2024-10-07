@@ -32,7 +32,7 @@ As credenciais de acesso ao app e onde obter o Número Serial (essencial para op
 Este exemplo contem três itens fundamentais:
 
 1. embed_lib.pas: carregamemento das bibliotecas
-2. embed_api.pas: utilização dos métodos para transações/operações com XML
+2. embed_api.pas: utilização dos métodos para transações/operações com POS
 3. embed_ui.pas: interface gráfica simplificada que consome os métodos
 
 ## API
